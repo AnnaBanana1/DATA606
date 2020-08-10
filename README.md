@@ -1,7 +1,7 @@
 # DATA606
 A Repo for Data 606 Projects
 
-## Phase II Jupyter Notebook is POsted
+## Phase II Jupyter Notebook is Posted
 
 The detail is included in the attached Jupyter Notebook. Some of the data wrangling was done in Linux shell for simplicity.
 
